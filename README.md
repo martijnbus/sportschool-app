@@ -1,19 +1,7 @@
-# ditwordteengoeie
+Een sportschool app, waarbij je de tijd en les kan invoeren en dat wordt dan opgeslagen in local storage. Waarna het displayed wordt in My lessons. 
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+Ps. alleen de route via de HIT-les werkt, gezien ik anders 3 keer hetzelfde moest implementeren en dit meer een testopdracht was.
